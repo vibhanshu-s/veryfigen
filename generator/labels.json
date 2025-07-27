@@ -1,0 +1,32 @@
+{
+  "Science and Health": [
+    "BREAKING: Scientists report that",
+    "NEW STUDY: Researchers have found evidence of",
+    "HEALTH ALERT: A new virus strain has been detected in"
+  ],
+  "Politics and Government": [
+    "GOVERNMENT ANNOUNCEMENT: The Prime Minister has",
+    "POLICY CHANGE: A new law proposes",
+    "OFFICIAL STATEMENT: Authorities declare"
+  ],
+  "World Affairs": [
+    "INTERNATIONAL REPORT: Conflict erupts between",
+    "UN CONFIRMS: Humanitarian aid is being sent to",
+    "GLOBAL ALERT: Border tensions rise between"
+  ],
+  "Business and Economy": [
+    "MARKET WATCH: Stocks fall after",
+    "FINANCIAL REPORT: Multiple MNCs face scandal",
+    "TRADE ALERT: International tariffs increased on"
+  ],
+  "Education and Tech": [
+    "TECH BREAKTHROUGH: AI model outperforms doctors in",
+    "SCHOOL POLICY UPDATE: Phones banned due to",
+    "RESEARCH FINDING: Technology use linked to"
+  ],
+  "Crime": [
+    "CRIME SCENE: Police investigate the discovery of",
+    "ARREST MADE: Suspect in major heist caught in",
+    "BREAKING: Serial robbery spree hits downtown area"
+  ]
+}
