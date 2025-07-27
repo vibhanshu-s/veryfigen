@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+pandas
+tqdm
+sentencepiece
+requests
+google_drive_downloader
